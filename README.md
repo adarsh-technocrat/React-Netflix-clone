@@ -2,6 +2,8 @@
 
 Hosting Link :- https://netflix-clone-a267c.web.app/
 
+<img src="https://user-images.githubusercontent.com/47661086/107503367-e6cc3400-6bbf-11eb-9d93-072e73707696.png" alt="">
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
